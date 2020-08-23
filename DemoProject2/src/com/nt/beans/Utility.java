@@ -9,7 +9,6 @@ public class Utility {
 		return new Date();
 	}
 	
-
 	public void m1() {
 		System.out.println("Utility m1() method,12345");
 		System.out.println("By Rahman");
