@@ -20,5 +20,7 @@ System.out.println("Utility m1() method,12345");
 		System.out.println("M2() method");
 	}
 	
-	
+	public void m4() {
+		System.out.println("M4() method");
+	}
 }
