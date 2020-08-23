@@ -15,4 +15,10 @@ System.out.println("Utility m1() method,12345");
 
 }
 	
+	
+	public void m2() {
+		System.out.println("M2() method");
+	}
+	
+	
 }
